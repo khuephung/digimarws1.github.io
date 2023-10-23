@@ -1,2 +1,36 @@
 # digimarws1.github.io
 Bài tập HTML cơ bản 
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title> My Webpage - Home </title>
+
+</head>
+
+<body>
+    <h1 style = "text-align:center; color:blue; font-weight: bold;">
+        Welcome to My Webpage
+    </h1>
+    <p> This is my favourite content from the internet: </p>
+    <br>
+    <a href="./about.html"> About Me </a>
+    <br>
+    <a href="https://www.facebook.com/khue.phung.92/">Click here to see my Facebook Page</a>
+    <br>
+    <br>
+    <img src="./z3581175652437_b75f7129ba3fd803437ed1a55f88221d.jpg" alt="3D cake" height="200">
+    <img src="./z2969952681342_9171621fa8b7d5207e177df5b2f1f421.jpg" alt="3D cake" height="200">
+    <br>
+    <img src="./z2684549754103_671f4dd2b5c0b3a28b9eae3d7c5aa333.jpg" alt="3D cake" height="150">
+    <img src="./z2686050148275_dd957d96194161263ec76ac985c6265f.jpg" alt="3D cake" height="150">
+    <img src="./z2690227056655_0891e3166527c8e119420afc2d30747c.jpg" alt="3D cake" height="150">
+    <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xrXhPtJsESs?si=hWySLTutmf31wcHw" 
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <br>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.654887782485!2d106.6657884399167!3d10.76105845952022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ee4595019ad%3A0xf2a1b15c6af2c1a6!2sUniversity%20of%20Economics%20HCMC%20-%20Campus%20B!5e0!3m2!1sen!2s!4v1698041263627!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
